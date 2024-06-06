@@ -1,0 +1,13 @@
+
+
+
+.header-top{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.header-content{
+    width: 100%;
+    max-width: 600PX;
+}
